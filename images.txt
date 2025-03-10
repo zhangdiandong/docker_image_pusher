@@ -33,4 +33,4 @@
 #langgenius/dify-plugin-daemon:0.0.3-local
 #minio/minio
 #velero/velero-plugin-for-aws:latest
-velero:v1.9.0
+velero/velero:v1.9.7
