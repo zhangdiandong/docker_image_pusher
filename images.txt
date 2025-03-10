@@ -28,6 +28,7 @@
 #myscale/myscaledb:1.6.4
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-langgenius/dify-plugin-daemon:0.0.3-local
+#langgenius/dify-api:1.0.0
+#langgenius/dify-web:1.0.0
+#langgenius/dify-plugin-daemon:0.0.3-local
+minio/minio
