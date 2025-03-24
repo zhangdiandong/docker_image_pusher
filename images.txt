@@ -34,4 +34,4 @@
 #minio/minio
 #velero/velero-plugin-for-aws:latest
 #velero/velero:v1.9.7
-openai-edge-tts
+travisvn/openai-edge-tts
