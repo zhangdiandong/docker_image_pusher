@@ -36,4 +36,5 @@
 #velero/velero:v1.9.7
 #travisvn/openai-edge-tts
 #bitnami/etcd
-labring/ingress-nginx:v1.12.1
+#labring/ingress-nginx:v1.12.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
