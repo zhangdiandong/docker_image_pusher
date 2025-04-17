@@ -35,4 +35,5 @@
 #velero/velero-plugin-for-aws:latest
 #velero/velero:v1.9.7
 #travisvn/openai-edge-tts
-bitnami/etcd
+#bitnami/etcd
+labring/ingress-nginx:v1.12.1
