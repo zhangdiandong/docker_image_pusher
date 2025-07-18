@@ -40,4 +40,5 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
 #registry.k8s.io/ingress-nginx/controller:v1.12.1
 #node:23.8-alpine3.20
-node:23-alpine
+#node:23-alpine
+linuxserver/ffmpeg:amd64-7.1.1
